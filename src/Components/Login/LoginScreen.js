@@ -1,9 +1,22 @@
 import React from 'react'
 
-const LoginScreen = () => {
+const LoginScreen = ({ history }) => {
+
+    const handleButton = () => {
+        history.replace('/')
+        // history.push('/')
+    }
+
     return (
-        <div>
-            <h1>LoginScreen</h1>
+        <div className='container mt-5'>
+            <h1>Login </h1>
+            <hr />
+
+            <button className='btn btn-primary'
+                    onClick={ handleButton }
+            >
+                Login
+            </button>
         </div>
     )
 }
