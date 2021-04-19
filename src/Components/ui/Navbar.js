@@ -32,15 +32,6 @@ export const Navbar = () => {
                     >
                         DC
                     </NavLink>
-
-                    <NavLink 
-                        activeClassName="active"
-                        className="nav-item nav-link" 
-                        exact
-                        to="/HeroesScreen"
-                    >
-                        Heroes
-                    </NavLink>
                 </div>
             </div>
 

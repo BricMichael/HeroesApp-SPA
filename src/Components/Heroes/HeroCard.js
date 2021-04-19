@@ -4,14 +4,13 @@ import { Link } from 'react-router-dom';
 export const HeroCard = ({
     id,
     superhero,
-    publisher,
     alter_ego,
     first_appearance,
     characters,
 }) =>{
 
     return (
-        <div className="card ms-3" style={ { maxWidth: 540} }>
+        <div className="card ms-3 d-inline-block" style={ { maxWidth: 490} }>
             <div className="row no-gutters">
                 <div className="col-md-4">
                     <img src={ `./assets/heroes/${ id }.jpg`} className='card-img' alt={ superhero } />
@@ -28,7 +27,7 @@ export const HeroCard = ({
                             <small className="text-muted">{ first_appearance }</small>
                         </p>
 
-                        <Link to={ `./hero/${ id }`}>
+                        <Link to={ `./heroe/${ id }`}>
                             Más...
                         </Link>
                    </div>
