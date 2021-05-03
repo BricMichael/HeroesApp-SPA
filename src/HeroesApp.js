@@ -1,15 +1,8 @@
-import React from 'react';
-import AppRouter from './routers/AppRouter';
+import React from 'react'
+import { AppRouter } from './routers/AppRouter'
 
-const HeroesApp = () => {
-  return(
-     <div>
+export const HeroesApp = () => {
+    return (
         <AppRouter />
-     </div>
-  
-  )
-};
-
-
-
-export default HeroesApp;
+    )
+}
