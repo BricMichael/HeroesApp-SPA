@@ -1,7 +1,7 @@
 <h1 align="center">HeroesApp | Marvel | DC</h1>
 
 <div align="center">
-   Practicando las rutas con React || React Router <a href="https://github.com/BricMichael">MichaelBric</a>.
+   Practicando las rutas con React | React Router <a href="https://github.com/BricMichael">MichaelBric</a>.
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 Practicando las rutas en React, react-router. Satisfecho con el resultado y el haber logrado que el sitio se comportara como una Landing page. Mejorando día a día en este Framework. Actualmente trabajando en otros proyectos Full Stack con la pila MERN.
 
-![screenshot](https://raw.githubusercontent.com/BricMichael/Images-Projects/master/CapHeroesDc.png)
+![screenshot](https://raw.githubusercontent.com/BricMichael/Images-Projects/master/CapHeroesMarvel.png)
 
 ## Contact
 
