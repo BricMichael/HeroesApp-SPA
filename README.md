@@ -11,7 +11,7 @@
       Dev- Front-end
     </a>
     <span> | </span>
-    <a href="#" target='_blank'>
+    <a href="heeroes-app.netlify.app">
       Sitio HeroesApp
     </a>
     <span> | </span>
